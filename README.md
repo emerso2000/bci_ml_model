@@ -1,8 +1,5 @@
-==================================================
-What Should I Grow Today so I Make Money Tomorrow?
-==================================================
-Supporting Small Farmers' Crop Planning with Social, Environmental, and Market Data
------------------------------------------------------------------------------------
+###
+BCI ML Code
 
 Dependencies
 ^^^^^^^^^^^^
