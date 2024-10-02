@@ -1,5 +1,4 @@
-###
-BCI ML Code
+# BCI ML Code
 
 Dependencies
 ^^^^^^^^^^^^
