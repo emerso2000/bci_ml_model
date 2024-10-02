@@ -15,3 +15,7 @@ To download the source code, first set up Git by following [GitHub's Git Guides]
 
    ```bash
    conda env create -f environment.yml
+3. To activate the environment, run:
+
+   ```bash
+   conda activate bci-env
