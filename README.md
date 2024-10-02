@@ -1,14 +1,17 @@
 # BCI ML Code
 
-Dependencies
-The source code in this repository is written in Python 3.8. This section gives an overview of how to set-up the source code on a computer.
+## Dependencies
 
-# Clone this repository
-Follow Github's `Git Guides <https://github.com/git-guides>`_ to set-up Git locally on your machine. Then *clone* this repository to download the code.
+This project is written in Python 3.8. Follow the steps below to set up the code on your machine.
 
-# Conda environment
-Download `Anaconda <https://www.anaconda.com>`_ and run the following command to set-up a new virtual environment with all the necessary Python packages and libraries: 
-``conda env create -f environment.yml``
-Alternatively, use the `Anaconda Navigator GUI <https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#importing-an-environment>`_.
+### Clone the Repository
 
-To *activate* the environment, run ``conda activate bci`` before launching the Python IDE, or use the Anaconda Navigator GUI.
+To download the source code, first set up Git by following [GitHub's Git Guides](https://github.com/git-guides). Once Git is installed, clone this repository to your local machine.
+
+### Set Up Conda Environment
+
+1. Download [Anaconda](https://www.anaconda.com).
+2. Run the following command to create a virtual environment with the necessary packages:
+
+   ```bash
+   conda env create -f environment.yml
