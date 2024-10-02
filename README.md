@@ -11,4 +11,4 @@ Download `Anaconda <https://www.anaconda.com>`_ and run the following command to
 ``conda env create -f environment.yml``
 Alternatively, use the `Anaconda Navigator GUI <https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#importing-an-environment>`_.
 
-To *activate* the environment, run ``conda activate multiagent_mdp`` before launching the Python IDE, or use the Anaconda Navigator GUI.
+To *activate* the environment, run ``conda activate bci`` before launching the Python IDE, or use the Anaconda Navigator GUI.
